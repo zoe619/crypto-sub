@@ -1,0 +1,18 @@
+{
+    "name": "crypto-sub",
+    "version": "1.0.0",
+    "description": "crypto sub smartcontract for erc20 tokens",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "James Lucky",
+    "license": "MIT",
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.2.0",
+        "@openzeppelin/test-helpers": "^0.5.12"
+    }
+}
